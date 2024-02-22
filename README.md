@@ -1,0 +1,2 @@
+# Documentation
+Programa en Python que realiza la suma de dos números. Se realiza el versionamiento en la rama "main" de Github usando la estructura habitual de versionamiento creando los archivos de .gitignore, README.md, main.py (este ejecuta el programa) y el requirements.txt
